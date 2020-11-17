@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Esquelas_Reporte", "Esquelas_Reporte.rptproj", "{CF707DFA-8C09-44F5-9D5E-A518E7F0502B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF707DFA-8C09-44F5-9D5E-A518E7F0502B}.Debug|Default.ActiveCfg = Debug
+		{CF707DFA-8C09-44F5-9D5E-A518E7F0502B}.Debug|Default.Build.0 = DebugLocal
+		{CF707DFA-8C09-44F5-9D5E-A518E7F0502B}.Debug|Default.Deploy.0 = DebugLocal
+		{CF707DFA-8C09-44F5-9D5E-A518E7F0502B}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{CF707DFA-8C09-44F5-9D5E-A518E7F0502B}.DebugLocal|Default.Build.0 = DebugLocal
+		{CF707DFA-8C09-44F5-9D5E-A518E7F0502B}.Release|Default.ActiveCfg = Release
+		{CF707DFA-8C09-44F5-9D5E-A518E7F0502B}.Release|Default.Build.0 = Release
+		{CF707DFA-8C09-44F5-9D5E-A518E7F0502B}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

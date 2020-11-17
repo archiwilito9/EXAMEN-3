@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Esquelas_CUBO_OLAP", "Esquelas_CUBO_OLAP\Esquelas_CUBO_OLAP.dwproj", "{E041B9B6-1600-45A2-8FD0-069506A15911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Development|Default = Development|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E041B9B6-1600-45A2-8FD0-069506A15911}.Debug|Default.ActiveCfg = Development
+		{E041B9B6-1600-45A2-8FD0-069506A15911}.Debug|Default.Build.0 = Development
+		{E041B9B6-1600-45A2-8FD0-069506A15911}.Debug|Default.Deploy.0 = Development
+		{E041B9B6-1600-45A2-8FD0-069506A15911}.DebugLocal|Default.ActiveCfg = Development
+		{E041B9B6-1600-45A2-8FD0-069506A15911}.DebugLocal|Default.Build.0 = Development
+		{E041B9B6-1600-45A2-8FD0-069506A15911}.DebugLocal|Default.Deploy.0 = Development
+		{E041B9B6-1600-45A2-8FD0-069506A15911}.Development|Default.ActiveCfg = Development
+		{E041B9B6-1600-45A2-8FD0-069506A15911}.Development|Default.Build.0 = Development
+		{E041B9B6-1600-45A2-8FD0-069506A15911}.Development|Default.Deploy.0 = Development
+		{E041B9B6-1600-45A2-8FD0-069506A15911}.Release|Default.ActiveCfg = Development
+		{E041B9B6-1600-45A2-8FD0-069506A15911}.Release|Default.Build.0 = Development
+		{E041B9B6-1600-45A2-8FD0-069506A15911}.Release|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3083EF7F-8BE3-4087-B2BF-B83169CBCE04}
+	EndGlobalSection
+EndGlobal
